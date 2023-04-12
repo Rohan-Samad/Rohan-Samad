@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rohan-Samad
-- 👀 I’m interested in cars
+- 👀 I’m interested in palestine
 - 🌱 I’m currently learning lessons from my life
 - 💞️ I’m looking to work on nodejs
 - 📫 How to reach me venomthedeveloper@gmail.com
