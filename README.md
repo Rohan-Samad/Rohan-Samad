@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rohan-Samad
-- 👀 I’m interested in palestine
-- 🌱 I’m currently learning lessons from my life
-- 💞️ I’m looking to work on nodejs
+- 👀 I’m interested in Mern Stack Development
+- 🌱 I’m currently providing services as a Mern stack developer
+- 💞️ I’m looking to work on nodejs, Reactjs or Nextjs
 - 📫 How to reach me venomthedeveloper@gmail.com
 
 <!---
