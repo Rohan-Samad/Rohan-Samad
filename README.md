@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rohan-Samad
-- 👀 I’m interested in Mern Stack Development
+- 👀 I’m interested in learning new things related to technology!
 - 🌱 I’m currently providing services as a Mern stack developer
 - 💞️ I’m looking to work on nodejs, Reactjs or Nextjs
-- 📫 How to reach me venomthedeveloper@gmail.com
+- 📫 That's my mail to reach me venomthedeveloper@gmail.com
 
 <!---
 Rohan-Samad/Rohan-Samad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
